@@ -1,2 +1,3 @@
 # keygen
-An NPM Module For Generating RSA Public-Private Keypairs
+An NPM Module For Generating RSA Public-Private Keypairs Made By Smint
+
