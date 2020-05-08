@@ -1,6 +1,6 @@
 {
   "name": "openpgp-keygen",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "A Minimal OpenPGP Key Generation Tool For Generating PGP Public-Private KeyPairs",
   "main": "keygen.js",
   "scripts": {
